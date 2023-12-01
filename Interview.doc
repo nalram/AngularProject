@@ -1,0 +1,10 @@
+What are the main building blocks of an Angular application
+Modules
+Components
+Templates
+Directives
+Services and Dependency Injection
+Routing
+Pipes
+RxJS
+Forms
